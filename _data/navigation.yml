@@ -1,0 +1,9 @@
+main:
+  - title: "All Categories"
+    url: /categories/
+  - title: "Mobile Application Pentesting"
+    url: /categories/#Mobile Application Pentesting
+  - title: "pentesting"
+    url: /categories/#pentesting
+  - title: "About Me"
+    url: /about/
