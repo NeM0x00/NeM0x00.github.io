@@ -1,6 +1,4 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
-<h1>Hello Sec</h1>
+---
+layout: default
+title: Youssef Elsheikh - Security Researcher
+---
